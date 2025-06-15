@@ -1,0 +1,11 @@
+Date,Product,Category,Region,Salesperson,Sales Amount
+2024-01-01,Product A,Electronics,North,John,15000
+2024-01-05,Product B,Furniture,South,Emily,12000
+2024-01-10,Product C,Electronics,East,Mike,18000
+2024-01-15,Product D,Clothing,West,Alice,9500
+2024-01-20,Product E,Furniture,North,John,11000
+2024-01-25,Product F,Electronics,South,Emily,14000
+2024-02-01,Product G,Clothing,East,Mike,8000
+2024-02-07,Product H,Electronics,West,Alice,17000
+2024-02-12,Product I,Furniture,North,John,12500
+2024-02-18,Product J,Clothing,South,Emily,9000
